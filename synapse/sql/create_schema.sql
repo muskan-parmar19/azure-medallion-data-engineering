@@ -1,1 +1,1 @@
-
+Create SCHEMA gold;
