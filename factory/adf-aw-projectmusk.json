@@ -1,0 +1,15 @@
+{
+	"name": "adf-aw-projectmusk",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "52589694-2da4-4546-a65e-4934da85744b",
+		"tenantId": "4812dc79-adc6-461d-ba00-80435797c246"
+	}
+}
